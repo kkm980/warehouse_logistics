@@ -1,0 +1,33 @@
+
+._filterBox{
+    position: fixed;
+    border: 1px solid blue;
+    top: 20%;
+    left: 2%;
+    height: 200px;
+    width: 30%;
+    padding: 8px;
+}
+.clears{
+    position: absolute;
+    right: 0;
+    top: 0;
+    cursor: pointer;
+    background-color: red;
+    width: 60px;
+    height: 25px;
+    margin:8px;
+    vertical-align: middle;
+    text-align: center;
+    padding: 0 auto;
+    line-height: 25px;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+._filterBox input{
+    height: 20px;
+    border: 1px solid blue;
+    border-radius: none;
+}
+

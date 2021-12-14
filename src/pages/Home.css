@@ -1,0 +1,14 @@
+._container{
+    margin-left: 10px;
+    width: 58%;
+    float: right;
+    display: flex;
+    /* align-items: center; */
+    /* justify-content: center; */
+    flex-wrap: wrap;
+}
+
+._container>img{
+    display: block;
+    margin: 0 auto;
+}
